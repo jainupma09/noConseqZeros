@@ -1,5 +1,4 @@
-/*This program finds the total possible bit string (either 0 or 1) of length n which don't have two contiguous zeroes in them.
-Similar to finding fibonnaci sequence */
+/*This program finds the total possible bit string (either 0 or 1) of length n which don't have two contiguous zeroes in them. */
 
 /*This method takes O(log n) time*/
 
